@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
         n = len(nums)
@@ -8,8 +6,9 @@ class Solution:
         max_sum = 0
         begin = 0
 
-        for end in range(n):
+        for end in range(len(nums)):
             # Jika elemen duplikat ditemukan, geser begin hingga elemen unik
+            # print(f'end {nums[end]}:{end}, begin {nums[begin]}:{begin}, elemen {elements}, sum {current_sum}')
             while nums[end] in elements:
                 elements.remove(nums[begin])
                 current_sum -= nums[begin]
@@ -26,5 +25,6 @@ class Solution:
                 elements.remove(nums[begin])
                 current_sum -= nums[begin]
                 begin += 1
+           
 
         return max_sum
