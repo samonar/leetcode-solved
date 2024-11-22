@@ -20,13 +20,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samonar/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samonar/leetcode-solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samonar/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samonar/leetcode-solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samonar/leetcode-solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Matrix
+|  |
+| ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samonar/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 <!---LeetCode Topics End-->
