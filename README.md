@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samonar/leetcode-solved/tree/master/0001-two-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samonar/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samonar/leetcode-solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samonar/leetcode-solved/tree/master/0001-two-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/samonar/leetcode-solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samonar/leetcode-solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
